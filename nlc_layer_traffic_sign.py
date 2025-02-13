@@ -27,7 +27,7 @@ transform = transforms.Compose([
 
 batch_size = 32
 num_classes = 4
-learning_rate = 0.0001
+learning_rate = 0.001
 num_epochs = 300
 noisy_ratio_lst = [0.1, 0.2, 0.3]
 
